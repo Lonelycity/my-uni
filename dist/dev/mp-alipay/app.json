@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/wxLogin"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "个人博客",
+    "titleBarColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
